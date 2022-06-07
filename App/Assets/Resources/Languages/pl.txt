@@ -1,0 +1,16 @@
+﻿UD_Title=Dane uzytkownika
+SB_Title=Tablica wyników
+SET_Title=Ustawienia
+VIBRATIONS=Wibracje:
+MUSIC=Muzyka:
+SOUNDS=Dzwieki:
+NAME=Nazwa Uzytkownika:
+NAME_PLACEHOLDER=Wpisz nazwę uzytkownika...
+TIME=Czas misji:
+CARDIO=Tryb kardio:
+SIGNOUT_Btn=Wyloguj
+TOO_LITTLE=Masz za malo metali, kup wiecej lub obejrzyj reklame.
+1 reklama = 1 metal
+WATCHAD=Reklama
+SHOP=Sklep
+DESCRIPTION=Hej, czas na nową misje. Zakladaj buty i idz ze mną, bo Hulk potrzebuje naszej pomocy.

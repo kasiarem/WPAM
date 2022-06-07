@@ -1,0 +1,17 @@
+UD_Title=Datos del usuario
+SB_Title=Marcador
+SET_Title=Configuracion
+VIBRATIONS=Vibraciones:
+MUSIC=Musica:
+SOUNDS=Sonidos
+NAME=Nombre de usuario:
+NAME_PLACEHOLDER=Introduzca su nombre de usuario...
+TIME=Tiempo de la mision:
+CARDIO=Modo cardio:
+SIGNOUT_Btn=Desconectar
+TOO_LITTLE=Tiene muy pocos metales, compre más o vea un anuncio.
+1 anuncio = 1 Metal
+WATCHAD=Ver anuncio
+SHOP=Tienda
+DESCRIPTION=Hola, es hora de una nueva mision. Abrochate el cinturon y ven conmigo porque Hulk necesita nuestra ayuda.
+

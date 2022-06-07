@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://wpam-app-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">766452235921</string>
+  <string name="google_storage_bucket" translatable="false">wpam-app.appspot.com</string>
+  <string name="project_id" translatable="false">wpam-app</string>
+  <string name="google_api_key" translatable="false">AIzaSyAv4-8KATFAqkbwQj9U3WWJBTEFUAq3Azk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAv4-8KATFAqkbwQj9U3WWJBTEFUAq3Azk</string>
+  <string name="google_app_id" translatable="false">1:766452235921:android:fe987c36092fe505dec930</string>
+  <string name="default_web_client_id" translatable="false">766452235921-krf4iliesdabqnpanmatdiogj4842mjj.apps.googleusercontent.com</string>
+</resources>

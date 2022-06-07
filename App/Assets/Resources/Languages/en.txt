@@ -1,0 +1,17 @@
+UD_Title=User data
+SB_Title=Scoreboard
+SET_Title=Settings
+VIBRATIONS=Vibrations:
+MUSIC=Music:
+SOUNDS=Sounds:
+NAME=Username:
+NAME_PLACEHOLDER=Enter username...
+TIME=Time of mission :
+CARDIO=Cardio mode : 
+SIGNOUT_Btn=Sign Out
+TOO_LITTLE=You've got too little Metals, shop for more or watch an ad. 
+1 ad = 1 Metal
+WATCHAD=Watch ad
+SHOP=Shop
+DESCRIPTION=Hi, it's time for new mission. Buckle up and go with me becaouse Hulk needs our help.
+
